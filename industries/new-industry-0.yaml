@@ -4,6 +4,7 @@ cargoAcceptance:
 - PASS
 cargoProduction:
 - PASS
+- Mail
 colour: 1
 fundCostMultiplier: 100
 id: 0
