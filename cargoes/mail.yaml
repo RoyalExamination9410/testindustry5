@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: ML
 available: false
-classes: 32
+classes: 2
 colour: 1
 id: 1
-label: NEWC
-longName: 'new cargo #1'
-name: 'New Cargo #1'
+label: Mail
+longName: mail
+name: Mail
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-1.png
+  filename: cargoes/mail.png
   left: 0
   top: 0
-unitName: Items
+unitName: Bags
 weight: 16
