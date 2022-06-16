@@ -10,7 +10,7 @@ id: 0
 layout:
 - - - 0
 name: Club
-placement: in-town
+placement: anywhere
 probabilityInGame: 30
 probabilityMapGen: 30
 prospectChance: 100
