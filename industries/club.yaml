@@ -5,15 +5,15 @@ cargoAcceptance:
 cargoProduction:
 - PASS
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 25
 id: 0
 layout:
 - - - 0
-name: 'New industry #0'
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+name: Club
+placement: in-town
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 100
 tiles:
 - sprites:
   - alwaysDraw: true
@@ -23,7 +23,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/1.png
+      filename: industries/club/1.png
       left: -31
       top: 0
 type: primary
