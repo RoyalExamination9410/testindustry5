@@ -4,6 +4,7 @@ cargoAcceptance:
 - PASS
 cargoProduction:
 - PASS
+- NEWC
 colour: 1
 fundCostMultiplier: 25
 id: 0
