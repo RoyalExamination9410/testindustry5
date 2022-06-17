@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: PS
 available: true
-classes: 32
-colour: 1
+classes: 1
+colour: 84
 id: 1
-label: NEWC
-longName: 'new cargo #1'
-name: 'New Cargo #1'
+label: PASS
+longName: passengers
+name: Passengers
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-1.png
+  filename: cargoes/passengers.png
   left: 0
   top: 0
-unitName: Items
-weight: 16
+unitName: Passengers
+weight: 1
