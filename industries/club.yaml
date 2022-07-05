@@ -49,9 +49,6 @@ fundCostMultiplier: 25
 id: 0
 layout:
 - - - 0
-- - - 0
-    - 0
-    - 0
 name: Club
 placement: anywhere
 probabilityInGame: 30
