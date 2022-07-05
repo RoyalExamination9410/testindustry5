@@ -67,5 +67,5 @@ tiles:
     sprite:
       filename: industries/club/1.png
       left: -31
-      top: 0
+      top: -12
 type: primary
