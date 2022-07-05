@@ -43,8 +43,7 @@ callbacks: |
   }
 cargoAcceptance:
 - PASS
-cargoProduction:
-- PASS
+cargoProduction: []
 colour: 1
 fundCostMultiplier: 25
 id: 0
